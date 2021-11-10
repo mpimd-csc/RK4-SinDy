@@ -77,6 +77,8 @@ url = {http://papers.neurips.cc/paper/9015-pytorch-an-imperative-style-high-perf
 }
 </pre></details>
 
+## Contact
+For any further query, kindly contact [Pawan Goyal](mailto:goyalp@mpi-magdeburg.mpg.de). 
 
 
 
